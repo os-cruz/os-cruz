@@ -4,7 +4,6 @@
 
 # REPO README 1- for this account RESUME: Oscar Cruz Díaz - Tlax.
 
-<img width="415" height="1554" alt="image" src="https://github.com/user-attachments/assets/79f1d27e-0ed8-412e-9bdb-0b74b1f86e64" />
 
 
 ## README —  entorno de desarrollo
